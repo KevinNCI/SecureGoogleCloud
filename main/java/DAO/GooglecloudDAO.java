@@ -6,8 +6,9 @@ package DAO;
 
 /**
  *
- * @author Administrator
+ * 
  */
 public class GooglecloudDAO {
     
 }
+
